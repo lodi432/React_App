@@ -10,7 +10,7 @@ class Contact extends Component {
           <Cell col={6}>
             <h2>Domagoj Glavačević</h2>
             <img
-              src="https://cdn2.iconfinder.com/data/icons/avatar-2/512/Fred_man-512.png"
+              src="https://avatars1.githubusercontent.com/u/20270701?s=460&v=4"
               alt="avatar"
               style={{height: '250px'}}
                />
