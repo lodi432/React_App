@@ -2,7 +2,7 @@
   "name": "portfolioapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lodi432.github.io/React_Resume/src",
+  "homepage": "https://lodi432.github.io/React_Resume",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
