@@ -27,7 +27,7 @@ class Resume extends Component {
             Skilled in working with database management tools such as MySQL.<br></br>
             Committed to delivering company objectives to projects and results to customers and improving each version of software I engage with with strong will to learn new technologies.
                */}
-               Innovative tech mind with 2 years of experience in computer programming. <br></br>
+               Innovative tech mind with 3 years of experience in computer programming. <br></br>
               Capable of working with a variety of technology and software solutions, and managing databases. <br></br>
               Valuable team member who has experience diagnosing problems and developing solutions. 
               </p>
