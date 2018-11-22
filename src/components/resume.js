@@ -27,7 +27,7 @@ class Resume extends Component {
             Skilled in working with database management tools such as MySQL.<br></br>
             Committed to delivering company objectives to projects and results to customers and improving each version of software I engage with with strong will to learn new technologies.
                */}
-               Innovative tech mind with 3 years of experience in computer programming. <br></br>
+               Innovative tech mind with 2 years of experience in computer programming. <br></br>
               Capable of working with a variety of technology and software solutions, and managing databases. <br></br>
               Valuable team member who has experience diagnosing problems and developing solutions. 
               </p>
@@ -64,8 +64,8 @@ class Resume extends Component {
                  schoolCall="PHP Programmer"
                   />
                    <Education
-              startYear={2017}
-              endYear={2018}
+              startYear={2012}
+              endYear={2015}
               schoolName="Agricultural and Veterinary School Osijek"
               schoolDescription="School of Agricultural and Veterinary in Osijek"
               schoolCall="Fitofarmaceut"
