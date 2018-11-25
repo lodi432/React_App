@@ -66,7 +66,7 @@ class Resume extends Component {
                    <Education
               startYear={2012}
               endYear={2015}
-              schoolName="Agricultural and Veterinary School Osijek"
+              schoolName="Agricultural and Veterinary School"
               schoolDescription="School of Agricultural and Veterinary in Osijek"
               schoolCall="Fitofarmaceut"
                />
